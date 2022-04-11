@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 )
-
+// Trafig lights
 func main() {
 	c := make(chan int, 5) // max channel number
 
